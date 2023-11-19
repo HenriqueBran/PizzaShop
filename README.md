@@ -1,1 +1,1 @@
-# PizzaShop
+Apresento com orgulho o site de pizzaria que desenvolvi para o meu portfólio. Este projeto destaca-se pela sua interface intuitiva, design atraente e funcionalidades que elevam a experiência do usuário.  Cada detalhe foi cuidadosamente planejado para oferecer praticidade. Explore este trabalho que reflete minha habilidade em criar soluções web envolventes e eficazes para negócios.
