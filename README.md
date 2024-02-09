@@ -18,5 +18,7 @@ Este projeto é responsivo, o javascript auxilia na criação de um menu de hamb
 
 
 https://github.com/HenriqueBran/PizzaShop/assets/114500097/6b10bb87-f355-4768-a7b0-7b467dcda3a6
+
+Figma: https://www.figma.com/file/WlFb7twfx5xbQTbdzDLt6C/Untitled?type=design&node-id=0%3A1&mode=dev&t=oh2Qi2o86wXB3Zdy-1
  
 
